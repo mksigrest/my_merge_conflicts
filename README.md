@@ -3,6 +3,6 @@ trying merge conflicts
 
 My name is Max
 
+My name is Noah
 
-
-My favorite color is blue
+Our favorite color is blue
